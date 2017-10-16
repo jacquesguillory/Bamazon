@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon dependencies",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacquesguillory/Bamazon.git"
+  },
+  "author": "jacques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacquesguillory/Bamazon/issues"
+  },
+  "homepage": "https://github.com/jacquesguillory/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
